@@ -1,0 +1,9 @@
+[submodule "edamontology"]
+	path = edamontology
+	url = https://github.com/edamontology/edamontology.git
+[submodule "obi"]
+	path = obi
+	url = https://github.com/obi-ontology/obi.git
+[submodule "obi-legacy-svn"]
+	path = obi-legacy-svn
+	url = https://github.com/obi-ontology/obi-legacy-svn.git
